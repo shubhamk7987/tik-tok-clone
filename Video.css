@@ -1,0 +1,7 @@
+.video{
+    overflow: scroll;
+    display: flex;
+}
+body{
+    overflow: scroll;
+}
